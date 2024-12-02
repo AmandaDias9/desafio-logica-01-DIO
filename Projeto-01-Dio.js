@@ -41,5 +41,5 @@ for ( let i = 0; i < nomeHeroi.length; i++){
     console.log(`O Herói de nome ${nome} está no nível ${nivel}`)
 }
 
-Dev Amanda
-Data: 02/12/2024
+//Dev Amanda
+//Data: 02/12/2024
